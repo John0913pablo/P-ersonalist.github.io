@@ -1,0 +1,22 @@
+*
+h1
+{
+	font-family: georgia;
+}
+#aboutus
+{
+	margin-top: 100px;
+	height: 100%;
+	width: 50%;
+	font-family: georgia;
+	font-weight: bold;
+}
+.aboutus h1
+{
+	font-family: times new roman;
+}
+
+section{
+    background-image: linear-gradient(#191a1c,#191a1c);
+        color: white;
+}
